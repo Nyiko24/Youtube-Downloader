@@ -44,7 +44,7 @@ A footer is added with text indicating the author or source of the application.
 
 Finally, the application is run with app.mainloop().
 
-9. This how the interface of the project looks like when you run it
+9. This how the interface of the application looks like when you run it
 ¬
 ![YT1](https://github.com/Nyiko24/Youtube-Downloader/assets/114064061/f5291314-510d-4365-919b-594946aab895)
 
