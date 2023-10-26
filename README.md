@@ -33,13 +33,18 @@ Updates the progress bar and shows success or error messages.
 
 The code sets up a graphical user interface using tkinter with a title and a header displaying the logo and a text label.
 It also creates an input field for the YouTube URL and two buttons for downloading video and audio.
-Custom Styling:
+6. Custom Styling:
 
 Custom styling for the GUI is applied using the customtkinter library, including appearance mode and color themes.
-6. Footer:
+7. Footer:
 
 A footer is added with text indicating the author or source of the application.
 
-7. Running the Application:
+8. Running the Application:
 
 Finally, the application is run with app.mainloop().
+
+9. This how the interface of the project looks like when you run it
+¬
+![YT1](https://github.com/Nyiko24/Youtube-Downloader/assets/114064061/f5291314-510d-4365-919b-594946aab895)
+
