@@ -50,6 +50,6 @@ Finally, the application is run with app.mainloop().
 
 10. This gif shows that this application has error handling when you try to download without the link being inputted.
 ~ 
-![Error PY](https://github.com/Nyiko24/Youtube-Downloader/assets/114064061/e5290aea-4902-4ff8-9e30-bc8a7c3afc68)
+![PYEEE](https://github.com/Nyiko24/Youtube-Downloader/assets/114064061/6721f0eb-ec7b-4c1b-abb2-c6b4774f6159)
 
     
