@@ -52,4 +52,7 @@ Finally, the application is run with app.mainloop().
 ~ 
 ![PYEEE](https://github.com/Nyiko24/Youtube-Downloader/assets/114064061/6721f0eb-ec7b-4c1b-abb2-c6b4774f6159)
 
+11. This GIF shows a demonstration of how the application is when donwloading a video from youtube via the progressbar
+~
+
     
