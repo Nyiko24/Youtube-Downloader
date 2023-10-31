@@ -47,4 +47,9 @@ Finally, the application is run with app.mainloop().
 9. This how the interface of the application looks like when you run it
 ¬
 ![YT1](https://github.com/Nyiko24/Youtube-Downloader/assets/114064061/f5291314-510d-4365-919b-594946aab895)
+
+10. This gif shows that this application has error handling when you try to download without the link being inputted.
+~ 
+![Error PY](https://github.com/Nyiko24/Youtube-Downloader/assets/114064061/e5290aea-4902-4ff8-9e30-bc8a7c3afc68)
+
     
