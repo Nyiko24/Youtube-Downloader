@@ -45,7 +45,7 @@ Finally, the application is run with app.mainloop().
 11. This gif shows that this application has error handling when you try to download without the link being inputted.
 ![PYEEE](https://github.com/Nyiko24/Youtube-Downloader/assets/114064061/6721f0eb-ec7b-4c1b-abb2-c6b4774f6159)
 
-12. This GIF shows a demonstration of how the application is donwloading a Drake laugh now cry later video from youtube via the progressbar
+12. This GIF shows a demonstration of how the application is donwloading a Drake laugh now cry later video from youtube via the progressbar.
 ![My Video11](https://github.com/Nyiko24/Youtube-Downloader/assets/114064061/cdca7b99-6940-4c9f-b32b-1028d2bfdc86)
 
     
